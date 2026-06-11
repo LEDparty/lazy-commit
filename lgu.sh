@@ -1,6 +1,9 @@
 #!/bin/bash
 # Script for automating changes made to a repository
-
+#TODO: gh repo rename new-name
+#create section for renaming a repository
+#emulate capabilities with gh (like creating new repositories)
+#becaue it has a ton of tools that git doesn't
 SCRIPT=$0
 #Allows for flexible script naming
 SCRIPT_NAME=${SCRIPT##*/}
