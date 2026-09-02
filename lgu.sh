@@ -2,6 +2,8 @@
 # Script for automating changes made to a repository
 #TODO: gh repo rename new-name
 #create section for renaming a repository
+#TODO: create alternative to force with lease, give force with lease
+#special conditions
 #emulate capabilities with gh (like creating new repositories)
 #becaue it has a ton of tools that git doesn't
 SCRIPT=$0
